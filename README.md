@@ -1,2 +1,2 @@
 # vrida-ecommerce-sales-
-here its an dashboard to increase the sales by revieing the previous year data 
+here its an dashboard to increase the sales by revieing the previous year data in the excel
